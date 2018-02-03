@@ -1,0 +1,70 @@
+#footer-top{
+	height: 35px;
+	max-height: 55px;
+	margin-bottom: 0px;
+	border: none;
+	background-color: #09bd8f; 
+}
+
+#footer-top ul li a{
+	padding: 7px;
+	color: white;
+}
+#footer-top ul li a:hover{
+	color: black;
+	background-color: transparent;
+}
+
+#footer-top .right-top{
+	float: right;
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+
+
+
+
+/*=============================SELECT TINH TP, DANH MUC=============================*/
+#form-select a{
+	padding: 6px;
+	border: solid 1px;
+	margin: 10px;
+}
+#TinhTp{
+	width: 250px;
+	height: 200px;
+}
+#TinhTp .select-TinhTp select{
+	width: 100%;
+	height: 200px;
+}
+
+#TinhTp a{
+	border: solid;
+}
+#TinhTp .item-TinhTp{
+	padding: 5px;
+}
+/*=============================SELECT TINH TP, DANH MUC=============================*/
+
+/*=============================TIM KIEM=============================*/
+#txtsearch{
+	border-radius: 0px;
+    margin-top: 2px;
+    width: 370px;
+}
+/*=============================END TIM KIEM=============================*/
+
+.slide-carousel{
+	margin-top: -20px;
+}
+
+/*=============================TIMELINE=============================*/
+.timeline-body p{
+	text-align: justify;
+}
+/*=============================END TIMELINE=============================*/

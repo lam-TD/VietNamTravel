@@ -67,4 +67,32 @@
 .timeline-body p{
 	text-align: justify;
 }
+.timeline-body .view-a{
+	text-decoration: none;
+}
+
 /*=============================END TIMELINE=============================*/
+
+/*=============================PLACE=============================*/
+.caption a{
+	font-weight: 100;
+	color: black;
+	text-decoration: none;
+}
+.caption .divide{
+	border-top: 1px solid #848481;
+	padding: 5px;
+}
+.caption .divide a{
+	margin-right: 5px;
+}
+.caption .divide .point-place{
+	color: #f4e842;
+}
+.caption .divide .view-place{
+	color: #blue;
+}
+.caption .divide .comment-place{
+	color: #757b87;
+}
+/*=============================END PLACE=============================*/

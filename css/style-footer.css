@@ -52,10 +52,12 @@
 /*=============================SELECT TINH TP, DANH MUC=============================*/
 
 /*=============================TIM KIEM=============================*/
+#style-form-search{
+	margin-top: 2px;
+}
 #txtsearch{
 	border-radius: 0px;
-    margin-top: 2px;
-    width: 370px;
+    width: 300px;
 }
 /*=============================END TIM KIEM=============================*/
 
@@ -74,6 +76,9 @@
 /*=============================END TIMELINE=============================*/
 
 /*=============================PLACE=============================*/
+.thumbnail {
+	border-radius: 0px; 
+}
 .caption a{
 	font-weight: 100;
 	color: black;

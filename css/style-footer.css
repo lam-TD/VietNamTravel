@@ -101,3 +101,33 @@
 	color: #757b87;
 }
 /*=============================END PLACE=============================*/
+
+/*============================= FOOTER=============================*/
+#footer-style{
+	color: #ababab;
+	background-color: #262626
+}
+
+#footer-style .container{
+	padding: 25px 0px;
+}
+
+#footer-style .container h4{
+	font-weight: 500;
+	color: white;
+}
+
+#footer-style .container p{
+	text-align: justify;
+}
+
+#footer-style .container a{
+	color: white;
+	padding: 5px;
+}
+
+.media img{
+	max-height: 48px;
+	max-width: 48px;
+}
+/*=============================END FOOTER=============================*/
